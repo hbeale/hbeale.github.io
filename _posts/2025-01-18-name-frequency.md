@@ -1,7 +1,3 @@
-layout: post
-title: "A Moment on the Wonen's Rugby Bandwagon"
-date: 2025-01-18 08:03:00 -0000
-categories: SPORTS
 ## A Moment on the Wonen's Rugby Bandwagon
 
 I just watched the Bristol Bears play the Leicester Tigers in Premiership Rugby, England's top division of rugby. 
